@@ -1,7 +1,8 @@
 # AutoMinecart
-A useful Minecraft plugin that mimics the Terraria minecarts. Spawns a Minecart upon right-clicking any rail (excluding Activator Rails) with an empty hand and teleports the player into the cart. Then, it will automatically go at full speed depending on chosen direction.
+A useful Minecraft plugin that mimics the Terraria minecarts. Spawns a Minecart upon right-clicking any rail (excluding Activator Rails) with an empty hand and teleports the player into the cart. Then, it will automatically go at full speed depending on chosen direction. The plugin was inspired by Kreezxil's [Terracart Reloaded Mod](https://www.curseforge.com/minecraft/mc-mods/terracart-reloaded).
 
-The plugin was made with the [Paper 1.18 API](https://papermc.io/), and is compatible with Spigot servers from 1.18 onwards.
+
+AutoMinecart was made with the [Paper 1.18 API](https://papermc.io/), and is compatible with Spigot servers from 1.18 onwards.
 
 ### **Features**
 - Allows players to right-click a rail (excluding Activator Rails) with an empty and get teleported into an automatically-spawned minecart
@@ -22,4 +23,4 @@ The plugin was made with the [Paper 1.18 API](https://papermc.io/), and is compa
 ### **Help**
 If you need help, please **start a conversation** with me on Spigot.
 
-**This plugin was inspired by Kreezxil's [Terracart Reloaded Mod](https://www.curseforge.com/minecraft/mc-mods/terracart-reloaded)**
+**AutoMinecart has been relicensed to the MIT License as of 27 October, 2024.**
